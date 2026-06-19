@@ -1,10 +1,10 @@
-# 🏙️ CityPulse — Tài Liệu Thiết Kế Tổng Hợp
+ CityPulse — Tài Liệu Thiết Kế Tổng Hợp
 
 > **CityPulse** — Nền tảng Civic Tech quản lý sự cố đô thị, cho phép người dân báo cáo các vấn đề (ổ gà, ngập lụt, rác thải, hư hỏng hạ tầng...) bằng hình ảnh → AI phân loại tự động → hiển thị trên bản đồ thời gian thực → cơ quan chức năng tiếp nhận & xử lý.
 
 ---
 
-## 📌 Phần 1: TỔNG QUAN DỰ ÁN
+##  Phần 1: TỔNG QUAN DỰ ÁN
 
 ### 1.1. Tuyên bố vấn đề (Problem Statement)
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Phần 2: TECH STACK & KIẾN TRÚC
+##  Phần 2: TECH STACK & KIẾN TRÚC
 
 ### 2.1. Tech Stack chi tiết
 
